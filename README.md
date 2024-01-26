@@ -2,7 +2,7 @@
 
 - 🔭 Ainda não trabalho com programação, mas aguardo ansioso por uma oportunidade!
 - 👀 Meu maior interesse é aprender mais sobre programação.
-- 🌱 Estudando React e TypeScript.
+- 🌱 Estudando Java e Spring Boot.
 - 💞️ Procuro colaborar em projetos iniciais.
 - 📫 Como me achar! telefone: (51)981326941 ou email: everton.mello.281@gmail.com
 - 😁 Pronome: ele/dele
